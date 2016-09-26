@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OneNews</string>
+    <array name="titleArray">
+        <item>要闻</item>
+        <item>财经</item>
+        <item>体育</item>
+        <item>军事</item>
+        <item>科技</item>
+        <item>历史</item>
+        <item>凤凰号</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_meassage_detail">MeassageDetailActivity</string>
+</resources>
