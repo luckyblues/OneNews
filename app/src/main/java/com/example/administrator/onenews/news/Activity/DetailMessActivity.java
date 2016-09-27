@@ -71,7 +71,7 @@ public class DetailMessActivity extends AppCompatActivity {
                 url.append("http://ihistory.ifeng.com/").append(num).append("/news.shtml");//历史
                 break;
             case 6:
-                url.append("http://iwemedia.ifeng.com/").append(num).append("/news.shtml");//娱乐
+                url.append("http://iwemedia.ifeng.com/").append(num).append("/wemedia.shtml");//凤凰号
                 break;
         }
         return url.toString();
